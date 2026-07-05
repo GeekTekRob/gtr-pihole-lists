@@ -1,0 +1,9 @@
+# DC Dark Legion
+dc-account.kingsgroupgames.com
+dc-cdn-cloudflare.kingsgroupgames.com
+dc-global-akamai-cdn.kingsgroupgames.com
+dc-payment.kingsgroupgames.com
+dcdl-global-prod-chat.kingsgroupgames.com
+dcdl-global-prod-stargate.kingsgroupgames.com
+dcdl-store-coin.kingsgroupgames.com
+devproxy.kingsgroupgames.com

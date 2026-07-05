@@ -1,0 +1,10 @@
+# Custom Blacklists — gtr-pihole-lists
+
+# This repository now splits blacklists into category files so maintainers
+# and deployers can pick only the categories they want to include in Pi-hole.
+# Files in this directory:
+# - streaming.txt
+# - ad-network.txt
+
+# To include a category in your Pi-hole, reference the corresponding file
+# or copy its contents into your local blocklist configuration.

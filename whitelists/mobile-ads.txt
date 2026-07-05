@@ -1,0 +1,13 @@
+# Mobile Ads
+adservice.google.com
+androidtvchannels-pa.googleapis.com
+applvn.com
+csi.gstatic.com
+fundingchoicesmessages.google.com
+ms.applovin.com
+rt.applovin.com
+teleport.soom.la
+tpc.googlesyndication.com
+track.tenjin.com
+unity3d.com
+unityads.unity3d.com

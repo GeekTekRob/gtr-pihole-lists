@@ -1,0 +1,41 @@
+# Custom Whitelists — gtr-pihole-lists
+
+# This repository now splits whitelists into category files so maintainers
+# and deployers can pick only the categories they want to include.
+# Files in this directory:
+# - facebook.txt
+# - whatsapp.txt
+# - reddit.txt
+# - amazon.txt
+# - dc-dark-legion.txt
+# - streaming.txt
+# - gaming-console.txt
+# - mobile-ads.txt
+# - misc-services.txt
+
+# --- URL Shorteners (collapsed) ---
+adf.ly
+amzn.com
+amzn.to
+bit.ly
+goo.gl
+ow.ly
+t.ly
+www.adf.ly
+www.bit.ly
+www.ow.ly
+
+# --- Host Files / Blocklist Sources (collapsed) ---
+hosts-file.net
+hostsfile.mine.nu
+hostsfile.org
+pgl.yoyo.org
+raw.githubusercontent.com
+someonewhocares.org
+sysctl.org
+v.firebog.net
+winhelp2002.mvps.org
+zeustracker.abuse.ch
+
+# To include a category in your Pi-hole, reference the corresponding file
+# or copy its contents into your local allowlist configuration.

@@ -1,0 +1,36 @@
+# Misc Services
+appboy-images.com
+bam.nr-data.net
+beacons.gcp.gvt2.com
+beacons.gvt2.com
+events.gfe.nvidia.com
+geolocation.onetrust.com
+gstaticadssl.l.google.com
+js-agent.newrelic.com
+mandrillapp.com
+ota-downloads.nvidia.com
+p11.techlab-cdn.com
+rest.iad-03.braze.com
+split.io
+tags.tiqcdn.com
+umami.is
+v.w-x.co
+www.msftconnecttest.com
+gfwsl.geforce.com
+goo.su
+
+-- School Messenger --
+schoolmessenger.com
+
+-- Slickdeals.net --
+slickdeals.net
+
+-- Stores --
+affirm.com
+app.sephora.com
+goto.target.com
+target.com
+goto.walmart.com
+links.gamestop.com
+trk.send.funko.com
+shop.niu.com

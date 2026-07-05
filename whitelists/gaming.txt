@@ -1,0 +1,32 @@
+# Gaming
+
+# Xbox / Microsoft services
+www.xboxlive.com
+events.data.microsoft.com
+settings-win.data.microsoft.com
+v10.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+v20.events.data.microsoft.com
+vortex.data.microsoft.com
+arc.msn.com
+fpt.live.com
+
+# PlayStation
+telemetry-console.api.playstation.com
+
+# Roblox
+client-telemetry.roblox.com
+ecsv2.roblox.com
+ephemeralcounters.api.roblox.com
+
+# Epic Games
+tracking.epicgames.com
+
+# Analytics
+google-analytics.com
+ssl.google-analytics.com
+www.google-analytics.com
+bstats.org
+
+# Rockstar Games
+prod.telemetry.ros.rockstargames.com
