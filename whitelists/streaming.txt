@@ -1,25 +1,33 @@
 # Streaming
-api-global.netflix.com
-appboot.netflix.com
-apresolve.spotify.com
-audio-ake.spotify.com.edgesuite.net
-audible.com
-audible.sc.omtrdc.net
 cdn.cookielaw.org
-directvapplications.hb.omtrdc.net
-directvnow.com
-display.ravm.tv
 js.maxmind.com
-market.spotify.com
-mobile-ap.spotify.com
-mobile.audible.com
 nbcstreaming.hb.omtrdc.net
 pluto.tv
 ravm.tv
 s.zkcdn.net
 secure-us.imrworldwide.com
-secure.netflix.com
 services.brightline.tv
-spclient.wg.spotify.com
 upgrade.scdn.com
 venetrigni.com
+
+-- Audible --
+audible.com
+audible.sc.omtrdc.net
+mobile.audible.com
+
+-- DirecTV --
+directvapplications.hb.omtrdc.net
+directvnow.com
+display.ravm.tv
+
+-- Netflix --
+secure.netflix.com
+api-global.netflix.com
+appboot.netflix.com
+
+-- Spotify --
+apresolve.spotify.com
+audio-ake.spotify.com.edgesuite.net
+market.spotify.com
+mobile-ap.spotify.com
+spclient.wg.spotify.com
