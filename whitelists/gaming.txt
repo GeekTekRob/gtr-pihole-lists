@@ -30,3 +30,7 @@ bstats.org
 
 # Rockstar Games
 prod.telemetry.ros.rockstargames.com
+
+# Battle.Net
+rum.battle.net
+telemetry-in.battle.net

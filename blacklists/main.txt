@@ -5,6 +5,3 @@
 # Files in this directory:
 # - streaming.txt
 # - ad-network.txt
-
-# To include a category in your Pi-hole, reference the corresponding file
-# or copy its contents into your local blocklist configuration.

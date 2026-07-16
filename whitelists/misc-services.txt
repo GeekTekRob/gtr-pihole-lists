@@ -19,13 +19,13 @@ www.msftconnecttest.com
 gfwsl.geforce.com
 goo.su
 
--- School Messenger --
+# -- School Messenger --
 schoolmessenger.com
 
--- Slickdeals.net --
+# -- Slickdeals.net --
 slickdeals.net
 
--- Stores --
+# -- Stores --
 affirm.com
 app.sephora.com
 goto.target.com
